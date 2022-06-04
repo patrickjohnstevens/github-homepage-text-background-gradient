@@ -1,8 +1,19 @@
 body {
   background-color: #040d21;
 }
+
+.contain {
+  max-width: 600px;
+}
+.media-contain {
+  background-image: url('https://lh3.googleusercontent.com/FcBH6HFBoVFEoD84yZE0s2NuLehDYQwCdkZffgJJM5txxE4lVWzBwTKA62UIHG6PAn0gByG7XYB6gfWzBn1Z6gyp0aIxy0oby7vpm88bNHYB5KGTji9gssUxgsGy4DTqYFjX1kS4Bej9CGLG2eV7gTUU3vdOExxmIV4S4TxP6v6Rdc05O_-jbYiKwAnGfaWRXtBLhg9epyxUVmUzECZmTZEA1gv0pidlhiux1MP-yiQ0vFUkOg4hSUY6v6zDIzvnmH0IqzltiC7x2i-3NwcPMlHAiOU6rYffwqAAKho6NhQsYcbvYhRoDNO1FEkE3dBw5CL1HquzpPuX72Q-xPDh277SR68hvoxLc24468rS0fbJjYAWex5CxAGFmL4AL_ZXJiogBtR1iSf0M5oyEIIt3GbEzuar6t9OQVmqVKQ6cWlUCF89cGneY6PslJO_Va85rTT8ixbIdeo789jn8r_QKsU5xHS2J_eWwcewi7uP5WGxLGDyEY_oPufZOAi-fUNC72c6j5p4qLc46kOXuDASYjHXmHRELlmfIvRe-kGb3KpuTIXzNhIHYDqURwcXcLxoG4m2EhxKnxS4oxc_CREVAhGoTzyVQvvcrrlDQuqohur1GDCRyGYoDSZQcG9C8yPhyGVseDfsn6qDlEMQK-RCEanfn1HB-RlK_rz0QlwdxECKEeRW5_gpMIWeqsaN9A_GVT0QC1a07YGpUJgPsVmZOWTZO2A83Oh1KGM_XsUVJvflpQxLtbXkBZLQuie63w=w1033-h662-no?authuser=0');
+}
+.media-source {
+  max-width: 600px;
+}
 h2 {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
   font-size: 3em;
 }
 .gradient-text {
